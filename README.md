@@ -1,6 +1,6 @@
 ## Exemplo de Calculadora com a função soma
 
-Criado por: [@qassunção](https://www.linkedin.com/in/fabio-assun%C3%A7%C3%A3o-qa/)
+Criado por: [@qqafabio](https://www.linkedin.com/in/qqafabio)
 
 *_______________________________________________________________________________*
 
@@ -21,8 +21,8 @@ Calculadora criada com o intuito de exemplificar o uso do Jest para testes unit�
 - Execute o comando `npm test` para executar o teste
 
 ### Autor
-- [QAssunção](https://github.com/qassuncao)
-- [LinkedIn](https://www.linkedin.com/in/qassuncao/)
+- [QAssunção](https://github.com/qqafabio)
+- [LinkedIn](https://www.linkedin.com/in/qqafabio)
 
 ### Licença
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
